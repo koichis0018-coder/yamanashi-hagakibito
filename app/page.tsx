@@ -160,7 +160,7 @@ export default function Home() {
       <footer>
         <p>山梨はがきびとの集い</p>
         <p>代表世話人　嶋津 光一</p>
-        <small>© Yamanashi Hagakibito Gathering</small>
+        <small>© 山梨はがきびとの集い</small>
       </footer>
     </main>
   );
