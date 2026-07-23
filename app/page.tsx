@@ -36,7 +36,7 @@ export default function Home() {
 
       <section className="hero" id="top">
         <div className="hero-art" aria-hidden="true">
-          <img src="/hero-watercolor.png?v=4" alt="" fetchPriority="high" />
+          <img src="./hero-watercolor.png?v=4" alt="" fetchPriority="high" />
         </div>
         <div className="hero-copy">
           <p className="eyebrow">NOW, HERE, TO SOMEONE.</p>
