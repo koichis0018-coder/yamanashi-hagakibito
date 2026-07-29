@@ -136,7 +136,7 @@ export default function Home() {
           </div>
           <dl className="event-details">
             <div><dt>開催日</dt><dd>2026年12月5日（土）</dd></div>
-            <div><dt>時　間</dt><dd>13時30分または14時 開始予定</dd></div>
+            <div><dt>時　間</dt><dd>13時30分 開場／13時45分 開始</dd></div>
             <div><dt>会　場</dt><dd>韮崎市民交流センター ニコリ<br /><small>山梨県韮崎市若宮1丁目2-50</small></dd></div>
             <div><dt>参加費</dt><dd>500円</dd></div>
             <div>
