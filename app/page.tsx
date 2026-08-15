@@ -156,15 +156,22 @@ export default function Home() {
               </dd>
             </div>
             
-              <div>
+               <div>
                 <dt>お問い合わせ</dt>
-                <dd>
-                  本会に関するお問い合わせは、すべて代表世話人・嶋津光一までお願いいたします。<br />
-                  <small>
-                    名刺記載の連絡先、またはInstagramのDMより受け付けています。
-                    螢雪寮および韮崎大村美術館への直接のお問い合わせはご遠慮ください。
-                  </small>
-                </dd>
+                          <dd>
+                本会に関するお問い合わせは、代表世話人・嶋津光一までお願いいたします。<br />
+                <a
+                  className="text-link"
+                  href="mailto:koichi.s0018@gmail.com?subject=%E7%AC%AC4%E5%9B%9E%E5%B1%B1%E6%A2%A8%E3%81%AF%E3%81%8C%E3%81%8D%E3%81%B3%E3%81%A8%E3%81%AE%E9%9B%86%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+                >
+                  メールで問い合わせる <span>↗</span>
+                </a><br />
+                <small>koichi.s0018@gmail.com</small><br />
+                <small>
+                  螢雪寮および韮崎大村美術館への直接のお問い合わせはご遠慮ください。
+                </small>
+              </dd>
+                 
               </div>
           </dl>
         </div>
