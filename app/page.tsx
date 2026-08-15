@@ -126,19 +126,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-       <section className="section" aria-labelledby="contact-heading">
-        <div className="section-label">CONTACT</div>
-        <div className="prose">
-          <h2 id="contact-heading">お問い合わせについて</h2>
-          <p>
-            螢雪寮および韮崎大村美術館への直接のお問い合わせはご遠慮ください。
-          </p>
-          <p>
-            本会に関するお問い合わせは、すべて代表世話人・嶋津光一までお願いいたします。
-            名刺記載の連絡先、またはInstagramのDMより受け付けています。
-          </p>
-        </div>
-      </section>
+      
       <section className="next-event" id="next">
         <div className="event-card">
           <div className="event-heading">
@@ -167,6 +155,17 @@ export default function Home() {
                 <small>初めて参加される方に限り、Instagram・Facebook・メールでも受け付けます。</small>
               </dd>
             </div>
+            
+              <div>
+                <dt>お問い合わせ</dt>
+                <dd>
+                  本会に関するお問い合わせは、すべて代表世話人・嶋津光一までお願いいたします。<br />
+                  <small>
+                    名刺記載の連絡先、またはInstagramのDMより受け付けています。
+                    螢雪寮および韮崎大村美術館への直接のお問い合わせはご遠慮ください。
+                  </small>
+                </dd>
+              </div>
           </dl>
         </div>
       </section>
