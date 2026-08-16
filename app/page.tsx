@@ -163,7 +163,8 @@ export default function Home() {
                <div>
                 <dt>お問い合わせ</dt>
                           <dd>
-                本会に関するお問い合わせは、代表世話人・嶋津光一までお願いいたします。<br />
+                本会に関するお問い合わせは、<br />
+                下記よりお願いいたします。<br />
                 <a
                   className="mail-button"
                   href="mailto:koichi.s0018@gmail.com?subject=%E7%AC%AC4%E5%9B%9E%E5%B1%B1%E6%A2%A8%E3%81%AF%E3%81%8C%E3%81%8D%E3%81%B3%E3%81%A8%E3%81%AE%E9%9B%86%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
